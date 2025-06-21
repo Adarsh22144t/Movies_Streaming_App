@@ -1,7 +1,3 @@
-Here’s an original and refined version of your README file, rewritten under the new title **Movies\_Streaming\_App**, ensuring it doesn't look copied:
-
----
-
 # 🎬 Movies\_Streaming\_App (HTML & CSS)
 
 A visually engaging movie streaming interface created entirely with **HTML and CSS**. This project is a frontend design challenge aimed at replicating the clean, responsive look of modern streaming platforms — all without using JavaScript or frontend frameworks.
