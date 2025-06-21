@@ -28,21 +28,12 @@ Follow these steps to run the project locally:
 
 ### 📥 Installation
 
-1. Clone the repository:
+ Clone the repository:
 
    ```bash
-   git clone https://github.com/Adarsh22144t/Netflix-Clone
+   https://github.com/Adarsh22144t/Movies_Streaming_App
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd Netflix-Clone
-   ```
-
-3. Open `index.html` in your browser.
-
----
 
 ## ⚠️ Limitations
 
