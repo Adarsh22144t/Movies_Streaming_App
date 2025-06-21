@@ -15,6 +15,9 @@ A visually engaging movie streaming interface created entirely with **HTML and C
 * 🎨 **Responsive Layout** – Designed to adapt across different screen sizes and devices.
 * 🎬 **Movie Thumbnails** – Display of featured and trending movie tiles.
 * ✨ **Interactive Hover Effects** – Smooth CSS transitions enhance the visual appeal.
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 
 ---
 
